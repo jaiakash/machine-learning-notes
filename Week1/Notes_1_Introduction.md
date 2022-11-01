@@ -31,7 +31,7 @@ Unsupervised learning allows us to approach problems with little or no idea what
 
 We dont know the ans. Eg. News article filtering.
 
-## Example
+### Example
 
 Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
 
